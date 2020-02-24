@@ -1,3 +1,6 @@
+body {
+  margin: 0;
+}
 header {
   background-color: #373738;
   padding: 15px;
@@ -34,5 +37,5 @@ footer ul {
 }
 footer li {
   display: inline-block;
-  padding: 5px;
+  padding: 0px 7px;
 }
