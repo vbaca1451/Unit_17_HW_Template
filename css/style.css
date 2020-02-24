@@ -19,7 +19,6 @@ header p {
 .content {
   max-width: 300px;
   margin: 0 auto;
-  outline: 1px solid red;
   padding: 50px;
   background-color: #FFFFFF;
   text-align: center;
